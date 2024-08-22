@@ -2,8 +2,6 @@
 
 **AmanFatima23/AmanFatima23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 -  I’m currently a student
 - 📚 I’m currently learning android development
 - 👯 I’m looking to collaborate on open-source projects related to Android development, particularly those using Kotlin and Jetpack Compose.
